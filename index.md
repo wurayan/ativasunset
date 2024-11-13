@@ -34,8 +34,8 @@ SOBRE O PAGAMENTO
 ### Tema
 Sunset
 Colocar Neon e Led para fazer iluminação
-- Varal de Luzes
-<img src="assets/708f1cb65f1fa8d19619ccf811e58453.jpg" style="width:200"> ![[e6919d962cd27f45a081fc0395bcd0b0.jpg|200]]
+- Varal de Luzes</br>
+<img src="assets/708f1cb65f1fa8d19619ccf811e58453.jpg" style="width:200px"><img src="assets/e6919d962cd27f45a081fc0395bcd0b0.jpg" style="width:200px">
  - Velas?
  - Projetor - provavelmente não, não combina com música ao vivo;
  - Placas decorativas - Podemos fazer com materiais simples como cartão ou algo mais complexo, como placas de compensado e paletes, se me derem alguns dias (horário de trabalho) e materiais posso tranquilamente fazer algumas;
