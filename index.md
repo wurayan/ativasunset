@@ -49,4 +49,4 @@ Colocar Neon e Led para fazer iluminação
  - Um mural ou espaço para escrever mensagens/alfinetar post-its? é bem coisa de jovem, mas combina com o role de fim de ano, deixar mensagens, desejos, etc;<br>
  <img src="assets/d5cc77723c3ef42b4517ed73e72ef78d.jpg" style="width:200px"><img src="assets/8d19a41b9f47dc1fa4c4b7c8adcfc288.jpg" style="width:200px">
 - Posters ou decorações mais simples;<br>
-<img src="assets/8791da2fa85bf852980a1d6acf533703.jpg" style="width:200px"><img src="assets/e353f0f759cf94853b878a13a3651890.jpg" style="width:200px">
+ <img src="assets/8791da2fa85bf852980a1d6acf533703.jpg" style="width:200px"><img src="assets/e353f0f759cf94853b878a13a3651890.jpg" style="width:200px">
