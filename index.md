@@ -14,7 +14,7 @@ Um buffet de petisco ou algo assim.
 Ideia de pegar a pizza e cortar em porção;
 
 ### Bebida
-Orçamento para Ativa Solar (<u>50 convidados</u>)
+Orçamento para Ativa Solar (<u>50 convidados</u>)<br>
 <span style="color:yellow">Valor: R$1.850,00 (37 reais por pessoa)</span>
 Drink’s inclusos: Caipirinha de limão, caipirinha de Abacaxi, caipirinha de morango e pinã colada
 Incluso:
@@ -23,12 +23,13 @@ Incluso:
 - ⁠bartenders uniformizados formalmente a disposição para fazer os drinks
 - ⁠Copos personalizados com dados da confraternização/dados 
 - ⁠decoração do balcão
-SOBRE O PAGAMENTO
+<br>
+SOBRE O PAGAMENTO<br>
 50% do valor adiantado para garantir reserva da data e compromisso de ambas partes, restante do valor podendo ser pago na semana do evento
 
 ### Tema
-Sunset
-Colocar Neon e Led para fazer iluminação
+Sunset<br>
+- Neon e Led para fazer iluminação
 - Varal de Luzes<br>
 <img src="assets/708f1cb65f1fa8d19619ccf811e58453.jpg" style="width:200px"><img src="assets/e6919d962cd27f45a081fc0395bcd0b0.jpg" style="width:200px">
  - Velas?
