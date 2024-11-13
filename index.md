@@ -15,8 +15,8 @@ Ideia de pegar a pizza e cortar em porção;
 
 ### Bebida
 Orçamento para Ativa Solar (<u>50 convidados</u>)<br>
-<span style="color:yellow">Valor: R$1.850,00 (37 reais por pessoa)</span>
-Drink’s inclusos: Caipirinha de limão, caipirinha de Abacaxi, caipirinha de morango e pinã colada
+<span style="color:yellow">Valor: R$1.850,00 (37 reais por pessoa)</span><br>
+Drink’s inclusos: Caipirinha de limão, caipirinha de Abacaxi, caipirinha de morango e pinã colada<br>
 Incluso:
 - 5 horas de open bar
 - ⁠toda compra de bebidas, frutas e o que mais for necessário
