@@ -21,7 +21,7 @@ Incluso:
 - 5 horas de open bar
 - ⁠toda compra de bebidas, frutas e o que mais for necessário
 - ⁠bartenders uniformizados formalmente a disposição para fazer os drinks
-- ⁠Copos personalizados com dados da confraternização/dados 
+- ⁠Copos personalizados com dados da confraternização 
 - ⁠decoração do balcão
 <br>
 SOBRE O PAGAMENTO<br>
