@@ -3,11 +3,6 @@ layout: default
 title: "Ativa Sunset"
 ---
 
-- [x] Selecionar um  tema geral;
-- [ ] Ir atrás de música (DJ);
-- [x] Conversar com Rudnick para os drinks;
-- [ ] Planejar decoração
-
 ### Local
 Bruno confirmou para dia 06/12 (Primeira Sexta de Dezembro);
 
