@@ -9,10 +9,11 @@ title: "Ativa Sunset"
 - [ ] Planejar decoração
 
 ### Local
-~~Bruno vai ver isso~~ Bruno Confirmou;
-Conferir disponibilidade para dia 06/12 (Primeira Sexta de Dezembro);
+~~Bruno vai ver isso~~ Bruno confirmou para dia 06/12 (Primeira Sexta de Dezembro);
+
 ### Músicas
-Fazer transição de acordo com o horário, começar com sertanejo, poop rock, etc e ir avançando até o Techno noite a dentro;
+Fazer transição de acordo com o horário, começar com sertanejo, pop rock, etc e ir avançando até o Techno/eletrônic/etc noite a dentro;
+
 ### Comida
 Um buffet de petisco ou algo assim.
 Ideia de pegar a pizza e cortar em porção;
