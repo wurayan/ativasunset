@@ -9,7 +9,7 @@ title: "Ativa Sunset"
 - [ ] Planejar decoração
 
 ### Local
-~~Bruno vai ver isso~~ Bruno confirmou para dia 06/12 (Primeira Sexta de Dezembro);
+Bruno confirmou para dia 06/12 (Primeira Sexta de Dezembro);
 
 ### Músicas
 Fazer transição de acordo com o horário, começar com sertanejo, pop rock, etc e ir avançando até o Techno/eletrônic/etc noite a dentro;
